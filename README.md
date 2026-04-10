@@ -1,0 +1,1 @@
+# Shamir-Secret-Sharing-Seed-Phrase-Encoding-Tool
