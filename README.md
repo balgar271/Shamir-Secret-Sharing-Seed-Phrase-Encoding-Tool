@@ -19,7 +19,7 @@ A general-purpose encoding/decoding tool for any text secret.
 - Supports up to 255 shares (GF(256) field limit)
 - Hex-encoded shares with one-click copy
 
-### 2. Seed Phrase Vault
+### 2. SSS Seed Phrase Encoding Tool
 
 A purpose-built tool for protecting BIP-39 cryptocurrency wallet seed phrases.
 
@@ -86,7 +86,7 @@ The output in `dist/` is a fully static site — serve it from anywhere or open 
 ```
 ├── src/
 │   ├── shamir-secret-sharing.jsx   # General-purpose SSS tool
-│   └── seed-phrase-vault.jsx       # BIP-39 seed phrase tool
+│   └── sss-seed-phrase-encoding.jsx       # BIP-39 seed phrase tool
 ├── package.json
 └── README.md
 ```
